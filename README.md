@@ -1,4 +1,4 @@
-# Look Away
+# Look Away 👀
 
 macOS menubar app for eye health and movement breaks. Built with SwiftUI.
 
